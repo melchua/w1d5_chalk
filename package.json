@@ -1,0 +1,23 @@
+{
+  "name": "testingnpm",
+  "version": "1.0.0",
+  "description": "using this to test chalk for lighthouse labs exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/npm/npm/issues"
+  },
+  "homepage": "https://github.com/npm/npm#readme"
+}
